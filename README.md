@@ -1,4 +1,13 @@
-# Python ")Snake charming
-
+# Python Snake charming
 ![PNG](./Bild.png "Tux Snake charming")
-# cq_test
+# cadquery experimente
+um CadQuery nutzen zu können sollte man Python 3.11 nutzen
+# uv als sehr schnellen installer (Rust basiert) dem langsamen pip vorziehen
+```
+uv python install 3.11
+uv venv --python 3.11
+source .venv/bin/activate
+uv pip install jupyterlab cadquery jupyter-cadquery CQ-editor 
+```
+
+
